@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://artfuldodger10.github.io/"><img src="https://img.shields.io/badge/blog-artfuldodger10.github.io-0d1117?style=for-the-badge&logo=githubpages&logoColor=3fb950" alt="Blog"></a>
-  <a href="https://artfuldodger10.github.io/portfolio/"><img src="https://img.shields.io/badge/portfolio-case_files-0d1117?style=for-the-badge&logo=bookstack&logoColor=f0883e" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/nader-ayman-569358286/"><img src="https://img.shields.io/badge/linkedin-connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
-  <a href="mailto:naderelsehrawii@gmail.com"><img src="https://img.shields.io/badge/email-contact-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
+  <a href="https://artfuldodger10.github.io/"><img src="https://img.shields.io/badge/blog-21262d?style=for-the-badge&logo=githubpages&logoColor=3fb950" alt="Blog"></a>
+  <a href="https://artfuldodger10.github.io/portfolio/"><img src="https://img.shields.io/badge/portfolio-21262d?style=for-the-badge&logo=bookstack&logoColor=f0883e" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/nader-ayman-569358286/"><img src="https://img.shields.io/badge/linkedin-21262d?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
+  <a href="mailto:naderelsehrawii@gmail.com"><img src="https://img.shields.io/badge/email-21262d?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
 </p>
 
 <p align="center"><i>"I don't just run the malware — I read its mind."</i></p>
