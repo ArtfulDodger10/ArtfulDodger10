@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="250" viewBox="0 0 860 250" role="img" aria-label="Terminal: artfuldodger, malware analyst and reverse engineer">
+  <style>
+    .t { font-family: Consolas, "SFMono-Regular", Menlo, "Courier New", monospace; font-size: 15px; }
+    .p { fill: #3fb950; } .c { fill: #e6edf3; } .o { fill: #8b949e; } .ok { fill: #3fb950; } .hl { fill: #f0883e; }
+    .cur { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <defs>
+    <clipPath id="l1"><rect x="0" y="62" height="24" width="0"><animate attributeName="width" from="0" to="860" begin="0.3s" dur="1.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l2"><rect x="0" y="88" height="24" width="0"><animate attributeName="width" from="0" to="860" begin="1.7s" dur="0.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l3"><rect x="0" y="122" height="24" width="0"><animate attributeName="width" from="0" to="860" begin="2.5s" dur="1.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l4"><rect x="0" y="148" height="24" width="0"><animate attributeName="width" from="0" to="860" begin="4.2s" dur="2.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l5"><rect x="0" y="182" height="30" width="0"><animate attributeName="width" from="0" to="860" begin="6.9s" dur="0.1s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="858" height="248" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <path d="M1 11a10 10 0 0 1 10-10h838a10 10 0 0 1 10 10v25H1z" fill="#161b22"/>
+  <line x1="1" y1="36" x2="859" y2="36" stroke="#30363d"/>
+  <circle cx="22" cy="18.5" r="6" fill="#ff5f57"/><circle cx="42" cy="18.5" r="6" fill="#febc2e"/><circle cx="62" cy="18.5" r="6" fill="#28c840"/>
+  <text x="430" y="23" text-anchor="middle" class="t o" font-size="13">artfuldodger@lab: ~/cases</text>
+
+  <g clip-path="url(#l1)"><text x="24" y="80" class="t"><tspan class="p">$ </tspan><tspan class="c">file ./artfuldodger</tspan></text></g>
+  <g clip-path="url(#l2)"><text x="24" y="106" class="t o">artfuldodger: malware analyst &amp; reverse engineer, x86/x64, .NET, Go</text></g>
+  <g clip-path="url(#l3)"><text x="24" y="140" class="t"><tspan class="p">$ </tspan><tspan class="c">./artfuldodger --sample </tspan><tspan class="hl">lumma.exe</tspan></text></g>
+  <g clip-path="url(#l4)"><text x="24" y="166" class="t"><tspan class="ok">[+]</tspan><tspan class="c"> unpacked   </tspan><tspan class="ok">[+]</tspan><tspan class="c"> config decrypted   </tspan><tspan class="ok">[+]</tspan><tspan class="c"> C2 extracted   </tspan><tspan class="ok">[+]</tspan><tspan class="c"> YARA written</tspan></text></g>
+  <g clip-path="url(#l5)"><text x="24" y="200" class="t"><tspan class="p">$ </tspan><tspan class="c cur">█</tspan></text></g>
+</svg>
