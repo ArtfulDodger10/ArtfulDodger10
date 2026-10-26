@@ -46,11 +46,11 @@ writes:   [C, C++, C#, Python, x64 assembly]
 ## `> tail -n 5 ./blog`
 
 <!-- BLOG-POST-LIST:START -->
-- [Lumma Campaign C++ Crypter](https://artfuldodger10.github.io/posts/Lumma-crypter-Analysis/)
-- [Lumma Campaign GO Loader](https://artfuldodger10.github.io/posts/Lumma-GO-Analysis/)
-- [XWorm — From Phishing Email to RAT](https://artfuldodger10.github.io/posts/Xworm-Analysis/)
-- [XWorm Downloader — VBScript Analysis](https://artfuldodger10.github.io/posts/XWorm-RAT-Malware-Analysis/)
-- [AgentTesla RAT](https://artfuldodger10.github.io/posts/AgentTesla-RAT-Full-Malware-Analysis-Report/)
+- [Ransomware Threat Brief: Egypt and GCC](https://artfuldodger10.github.io/posts/Ransomware-Brief-Egypt-GCC/)
+- [Lumma Stealer: From Config to Infrastructure](https://artfuldodger10.github.io/posts/Lumma-CTI-Infrastructure/)
+- [KryBit Ransomware: Encryptor Reversing](https://artfuldodger10.github.io/posts/KryBit-Ransomware-Analysis/)
+- [Phishing Infrastructure Targeting Egyptian Banks and Fintechs](https://artfuldodger10.github.io/posts/Egypt-Phishing-Infrastructure/)
+- [AntiDot Android Banking Trojan: Threat to Egyptian Banking Customers](https://artfuldodger10.github.io/posts/AntiDot-Android-Banker-Analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
